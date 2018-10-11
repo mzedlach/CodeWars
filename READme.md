@@ -4,4 +4,4 @@
 A place to keep all of my Code Wars challenges. The goal is to do one every day for the next 100 days. 
 Codewars Profile: https://www.codewars.com/users/mlach
 
-Javascript Count: 3
+Javascript Count: 4
