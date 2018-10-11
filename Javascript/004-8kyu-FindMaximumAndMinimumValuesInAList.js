@@ -12,13 +12,15 @@
 // #Notes
 // You may consider that there will not be any empty arrays/vectors.
 
-
+//My Solution
 var min = function(list){
+  //Sort array in ascending order, return first value.
     list.sort(function(a,b){return a-b});
     return list[0];
 }
 
 var max = function(list){
+  //Sort array (repetitive :( ) in ascending order, return last value
     list.sort(function(a, b){return a-b});
     return list[list.length-1];
 }
