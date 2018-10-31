@@ -28,7 +28,7 @@
 //This was super satisfying to finally get
 
 function mixedFraction(s){
-  //Remove negative signs and split into two numbers
+  //Split into array of two numbers
   var numbers = s.split('/');
   
   //If denominator of fraction is zero, throw error
