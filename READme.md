@@ -4,4 +4,4 @@ A Kata a day keeps the JavaScript fuzziness away.
 A place to keep all of my Code Wars challenges. The goal is to do one every day for the next 100 days. 
 Codewars Profile: https://www.codewars.com/users/mlach
 
-Javascript Count: 14 Days (19 Challenges)
+Javascript Count: 15 Days (20 Challenges)
