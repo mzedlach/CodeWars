@@ -30,7 +30,7 @@ function high(x){
     }
     //If calculated sum is larger than what is in largestScore...
     if (wordScore > largestScore) {
-    , //Save that new word in largestScoreWord
+      //Save that new word in largestScoreWord
       largestScoreWord = sentenceArr[i];
       //Save new largest score in largestScore. 
       largestScore = wordScore; 
